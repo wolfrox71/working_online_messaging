@@ -1,0 +1,4 @@
+Help
+Usage: !help [OC1]
+If the optional command is not included, display avalable commands
+If the optional command is included, display the help file for that command

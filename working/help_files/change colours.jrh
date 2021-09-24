@@ -1,0 +1,15 @@
+Change Colour
+Usage: !change colour [OC1] [OC2]
+Change the text colour of a user for all users
+                                [OC1] -> Colour
+If it is included then this colour will be picked if it is recognised
+If this is not recognised or included then a random colour will be picked.
+Using "Rand" or "Random" will pick a random colour and use that instead
+
+                                [OC2] -> User
+If this is included it will change that users colour for all users.
+If this is not included then the colour change will effect the user that sent the message
+
+                                Extra
+[OC2] does not need to be used it [OC1] is used as well
+Use the 'list colours' command to display the avalable colours to be displayed
